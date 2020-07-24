@@ -1,0 +1,27 @@
+table
+{
+    background-color: white;
+}
+
+table, th, td
+{
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+
+th,td
+{
+    padding: 8px;
+    text-align: left;
+}
+
+h2
+{
+    color: white;
+    text-align: initial;
+}
+
+body
+{
+    background-color: black;
+}

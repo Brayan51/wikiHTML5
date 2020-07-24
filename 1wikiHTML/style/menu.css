@@ -1,0 +1,50 @@
+body
+{
+    background-color: lightcoral;
+}
+
+nav
+{
+    background-color: white; list-style: circle; animation-name: unset;
+}
+
+li
+{
+    display: inline-block
+}
+
+a
+{
+    display: ruby-text-container;
+    padding: 16px;
+    background-color: rgb(64, 224, 263);
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 5;
+    padding: 0;
+    overflow: hidden;
+    background-color: azure;
+    border: 4px solid black;
+}
+
+li
+{
+    float: left;
+}
+
+li a
+{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+li a:hover
+{
+    background-color: whitesmoke;
+}
